@@ -1,7 +1,7 @@
 title: Andrei Dziahel
 description: The owls are not what they seem
 google_analytics: UA-24650673-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
